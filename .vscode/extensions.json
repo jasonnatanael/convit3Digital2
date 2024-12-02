@@ -1,0 +1,8 @@
+{
+    "recommendations": [
+        "esbenp.prettier-vscode",
+        "codeium.codeium",
+        "mgmcdermott.vscode-language-babel",
+        "formulahendry.code-runner"
+    ]
+}
