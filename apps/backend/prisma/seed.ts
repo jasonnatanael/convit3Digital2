@@ -29,7 +29,6 @@ async function seed() {
           })),
         },
       },
-    // eslint-disable-next-line prettier/prettier
     });
   });
 
