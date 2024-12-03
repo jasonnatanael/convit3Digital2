@@ -17,7 +17,7 @@ const eventos: Evento[] = [
     publicoEsperado: 200,
     convidados: [
       {
-        id: () => "h1g2x30pglq-2qy7mc3nd8h-qq494djtbcq",
+        id: "h1g2x30pglq-2qy7mc3nd8h-qq494djtbcq",
         nome: "Alice Silva",
         email: "alice@example.com",
         confirmado: true,
@@ -25,7 +25,7 @@ const eventos: Evento[] = [
         qtdeAcompanhantes: 1,
       },
       {
-        id: () => "unzgczdy0gp-uqljtf756de-ibfnezyz5f",
+        id: "unzgczdy0gp-uqljtf756de-ibfnezyz5f",
         nome: "Carlos Pereira",
         email: "carlos@example.com",
         confirmado: false,
@@ -33,7 +33,7 @@ const eventos: Evento[] = [
         qtdeAcompanhantes: 0,
       },
       {
-        id: () => "hqzmy1wi9gl-rgmibulirh-1k2twwu6waj",
+        id: "hqzmy1wi9gl-rgmibulirh-1k2twwu6waj",
         nome: "Beatriz Lima",
         email: "beatriz@example.com",
         confirmado: true,
@@ -57,7 +57,7 @@ const eventos: Evento[] = [
     publicoEsperado: 100,
     convidados: [
       {
-        id: () => "epy7dvzdn-h5ffojxd8xf-4u3dbflvkcs",
+        id: "epy7dvzdn-h5ffojxd8xf-4u3dbflvkcs",
         nome: "Eduardo Santos",
         email: "eduardo@example.com",
         confirmado: true,
@@ -65,7 +65,7 @@ const eventos: Evento[] = [
         qtdeAcompanhantes: 0,
       },
       {
-        id: () => "q5pb671a0e-3a1txyighat-sbu67d47s8",
+        id: "q5pb671a0e-3a1txyighat-sbu67d47s8",
         nome: "Fernanda Costa",
         email: "fernanda@example.com",
         confirmado: true,
@@ -89,7 +89,7 @@ const eventos: Evento[] = [
     publicoEsperado: 150,
     convidados: [
       {
-        id: () => "8tpp19ouoqi-6nm51io1n5a-lw6itbwufu",
+        id: "8tpp19ouoqi-6nm51io1n5a-lw6itbwufu",
         nome: "Gabriela Rocha",
         email: "gabriela@example.com",
         confirmado: true,
@@ -97,7 +97,7 @@ const eventos: Evento[] = [
         qtdeAcompanhantes: 1,
       },
       {
-        id: () => "a22ufkd5y2-6quz4dv5wln-qbbzwq551zs",
+        id: "a22ufkd5y2-6quz4dv5wln-qbbzwq551zs",
         nome: "Hugo Nogueira",
         email: "hugo@example.com",
         confirmado: false,
@@ -105,7 +105,7 @@ const eventos: Evento[] = [
         qtdeAcompanhantes: 0,
       },
       {
-        id: () => "cyy99oylu4w-s6c387plg5k-uyieywntrh",
+        id: "cyy99oylu4w-s6c387plg5k-uyieywntrh",
         nome: "Isabela Martins",
         email: "isabela@example.com",
         confirmado: true,
@@ -130,7 +130,7 @@ const eventos: Evento[] = [
     publicoEsperado: 150,
     convidados: [
       {
-        id: () => "6odwyyikpiu-4rm8d4upd7a-2ve4yb8dq2",
+        id: "6odwyyikpiu-4rm8d4upd7a-2ve4yb8dq2",
         nome: "Bruno Cardoso",
         email: "bruno@example.com",
         confirmado: true,
@@ -138,7 +138,7 @@ const eventos: Evento[] = [
         qtdeAcompanhantes: 1,
       },
       {
-        id: () => "eg7lxxznuva-d4cnx48ijqt-iz6xznoo5ts",
+        id: "eg7lxxznuva-d4cnx48ijqt-iz6xznoo5ts",
         nome: "Carla Mendes",
         email: "carla@example.com",
         confirmado: true,
@@ -163,7 +163,7 @@ const eventos: Evento[] = [
     publicoEsperado: 80,
     convidados: [
       {
-        id: () => "ir1r1ucu2od-461dkhc72tm-ydo4met07uj",
+        id: "ir1r1ucu2od-461dkhc72tm-ydo4met07uj",
         nome: "Maria Souza",
         email: "maria@example.com",
         confirmado: true,
@@ -171,7 +171,7 @@ const eventos: Evento[] = [
         qtdeAcompanhantes: 2,
       },
       {
-        id: () => "95qacnirxwr-ffuhv3s0nd9-nsu3rl4djee",
+        id: "95qacnirxwr-ffuhv3s0nd9-nsu3rl4djee",
         nome: "José Almeida",
         email: "jose@example.com",
         confirmado: false,
@@ -196,7 +196,7 @@ const eventos: Evento[] = [
     publicoEsperado: 300,
     convidados: [
       {
-        id: () => "c1a5x0qgus-cfswa77ods5-z4nn6bezylp",
+        id: "c1a5x0qgus-cfswa77ods5-z4nn6bezylp",
         nome: "Cláudia Lima",
         email: "claudia@example.com",
         confirmado: true,
@@ -204,7 +204,7 @@ const eventos: Evento[] = [
         qtdeAcompanhantes: 3,
       },
       {
-        id: () => "npsgd64c31a-c30fsot6cpk-sbsuwwahdda",
+        id: "npsgd64c31a-c30fsot6cpk-sbsuwwahdda",
         nome: "Ricardo Barbosa",
         email: "ricardo@example.com",
         confirmado: true,
@@ -228,7 +228,7 @@ const eventos: Evento[] = [
     publicoEsperado: 50,
     convidados: [
       {
-        id: () => "oqsjw6lyayh-q9b8sxtkvu-9cmebgi34ru",
+        id: "oqsjw6lyayh-q9b8sxtkvu-9cmebgi34ru",
         nome: "Thiago Oliveira",
         email: "thiago@example.com",
         confirmado: true,
@@ -236,7 +236,7 @@ const eventos: Evento[] = [
         qtdeAcompanhantes: 4,
       },
       {
-        id: () => "1wrml69nqd7-re2ywt674ic-vw5dbfxoj4q",
+        id: "1wrml69nqd7-re2ywt674ic-vw5dbfxoj4q",
         nome: "Letícia Oliveira",
         email: "leticia@example.com",
         confirmado: true,

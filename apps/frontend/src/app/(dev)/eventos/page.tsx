@@ -6,7 +6,7 @@ import QRCode from "react-qr-code";
 export default function PaginaEventos() {
   return (
     <div className="grid grid-cols-3 gap-5">
-      {eventos.map((evento) => (
+      {eventos.map((evento: any) => (
         <div
           key={evento.id}
           className="
