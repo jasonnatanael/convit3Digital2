@@ -3,6 +3,7 @@
         "esbenp.prettier-vscode",
         "codeium.codeium",
         "mgmcdermott.vscode-language-babel",
-        "formulahendry.code-runner"
+        "formulahendry.code-runner",
+        "ms-vscode.vscode-typescript-next"
     ]
 }

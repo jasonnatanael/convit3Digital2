@@ -1,4 +1,3 @@
-/* eslint-disable prettier/prettier */
 import { PrismaClient } from '@prisma/client';
 import { eventos } from 'core';
 
@@ -8,7 +7,7 @@ async function seed() {
   const transacoes = eventos.map(async (evento) => {
     await prisma.evento.create({
       data: {
-        id: evento.id,
+        id: evento.id(),
         alias: evento.alias,
         senha: evento.senha,
         nome: evento.nome,
