@@ -2,7 +2,7 @@ import { Evento } from "../evento";
 
 const eventos: Evento[] = [
   {
-    id: () => "xdlhnq5lwm-esmllp6nie-hzgl0ajulz7",
+    id: "xdlhnq5lwm-esmllp6nie-hzgl0ajulz7",
     alias: "evento-fullstack",
     senha: "senha123",
     nome: "Evento de Desenvolvimento Fullstack",
@@ -43,7 +43,7 @@ const eventos: Evento[] = [
     ],
   },
   {
-    id: () => "2kis8yvhcvv-8um289gg1x5-zw08j0ciytk",
+    id: "2kis8yvhcvv-8um289gg1x5-zw08j0ciytk",
     alias: "evento-js-avancado",
     senha: "js2024",
     nome: "Workshop Avançado de JavaScript",
@@ -75,7 +75,7 @@ const eventos: Evento[] = [
     ],
   },
   {
-    id: () => "5nef2v2sxhl-80hjydv7qd5-fddre4x4oyr",
+    id: "5nef2v2sxhl-80hjydv7qd5-fddre4x4oyr",
     alias: "evento-dev-frontend",
     senha: "front123",
     nome: "Bootcamp de Desenvolvimento Frontend",
@@ -115,7 +115,7 @@ const eventos: Evento[] = [
     ],
   },
   {
-    id: () => "oz9uvdydcd-nql21g818sa-dwvqulair8l",
+    id: "oz9uvdydcd-nql21g818sa-dwvqulair8l",
     alias: "casamento-alberto-marina",
     senha: "casamento2024",
     nome: "Casamento do Alberto e Marina",
@@ -148,7 +148,7 @@ const eventos: Evento[] = [
     ],
   },
   {
-    id: () => "muowo4f7k89-b93nq8qxqqd-0noa74ohiw9",
+    id: "muowo4f7k89-b93nq8qxqqd-0noa74ohiw9",
     alias: "aniversario-joao",
     senha: "joao2024",
     nome: "Aniversário do João - 30 Anos",
@@ -181,7 +181,7 @@ const eventos: Evento[] = [
     ],
   },
   {
-    id: () => "81ks0oozc35-ljvo5a8rqzg-qt28hdn6vge",
+    id: "81ks0oozc35-ljvo5a8rqzg-qt28hdn6vge",
     alias: "inauguracao-loja-estrela",
     senha: "estrela2024",
     nome: "Inauguração da Loja Estrela",
@@ -214,7 +214,7 @@ const eventos: Evento[] = [
     ],
   },
   {
-    id: () => "i3sg2jyquog-vnku4n38v4-6dibxujxr56",
+    id: "i3sg2jyquog-vnku4n38v4-6dibxujxr56",
     alias: "reuniao-familia-oliveira",
     senha: "familia2024",
     nome: "Reunião da Família Oliveira",

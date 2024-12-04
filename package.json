@@ -16,7 +16,8 @@
   },
   "workspaces": [
     "apps/*",
-    "packages/*"
+    "packages/*",
+    "core/*"
   ],
   "devDependencies": {
     "prisma": "^6.0.1"
